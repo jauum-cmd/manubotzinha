@@ -1,0 +1,20 @@
+{
+  "name": "hakxz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "</Fumante1533>",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "express": "^4.17.1",
+    "moment": "^2.26.0",
+    "ms": "^2.1.2",
+    "quick.db": "^7.1.1",
+    "weather-js": "^2.0.0"
+  }
+}
